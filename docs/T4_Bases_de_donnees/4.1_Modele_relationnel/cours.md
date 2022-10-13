@@ -216,7 +216,7 @@ Les clés étrangères, lorsqu'elles existent, peuvent être signalées par une 
 | …             | …           | …             | …          |
 
 Schéma : 
-Equipes ( <ins>dossard</ins>  ```Int```,  nomCoureur ```String```,  prénomCoureur ```String```,   codeEquipe* ```String``` ) 
+Coureurs ( <ins>dossard</ins>  ```Int```,  nomCoureur ```String```,  prénomCoureur ```String```,   codeEquipe* ```String``` ) 
 
 
 
